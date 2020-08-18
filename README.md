@@ -1,6 +1,3 @@
-### Hi, I'm lanlin 👋
-
-
 <b>
 <pre>
                                                _ooOoo_
