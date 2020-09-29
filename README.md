@@ -1,1 +1,1 @@
-![Background](bg.jpg?raw=true "Background")
+![Background](pg.jpg?raw=true "Background")
