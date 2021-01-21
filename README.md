@@ -3,5 +3,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanlin&theme=vue&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanlin&theme=vue&layout=compact&langs_count=10" />
 </a>
